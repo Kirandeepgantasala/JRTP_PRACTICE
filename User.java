@@ -17,6 +17,7 @@ class User{
         //Some Logic
 
         String s  = "Kiran";
+        String inst = "Ashokit";
         int a = 10;
         int b = 20;
 
