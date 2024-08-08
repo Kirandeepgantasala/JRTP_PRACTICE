@@ -16,7 +16,7 @@ class User{
     public void m2(){
         //Some Logic
 
-
+        String s  = "Kiran";
         int a = 10;
         int b = 20;
 
