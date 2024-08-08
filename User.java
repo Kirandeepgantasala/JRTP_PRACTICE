@@ -21,6 +21,7 @@ class User{
         String inst = "Ashokit";
         int a = 10;
         int b = 20;
+        System.out.println("********************");
 
         System.out.println(a+b);
     }
